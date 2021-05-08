@@ -19,4 +19,10 @@ The purpose of this challenge is to supply the election comission reults from th
 
 ## Summary
 The core components of this script can be re-used for future elections. With a little code refactoring, the script can apply to different election scenarios. For example, parts of the code that calculates county votes originally came from the original script for calculating candidate votes. The variable names were changed to apply to county votes. Also, dictionairy keys and values can also be switched out. An important tool in this script are the loops for vote counting and printing portions, which can be applied to any election. 
-![A](https://github.com/wolfi584/Election-Analysis/blob/main/Resources/county%20counting_election%20challenge.PNG?raw=true)
+
+## Code Snippetes
+- Looping: County stat collection
+![A](https://github.com/wolfi584/Election-Analysis/blob/main/Resources/for%20loop_election%20challenge.PNG?raw=true)
+
+- County turnout: Display and save
+![B](https://github.com/wolfi584/Election-Analysis/blob/main/Resources/county%20counting_election%20challenge.PNG?raw=true)
